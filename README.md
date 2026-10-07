@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+# Name: Pankhil Shah
 
 # Scientific workflow GitHub workshop
 
